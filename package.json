@@ -1,0 +1,25 @@
+{
+  "name": "sequelize-transaction-repro-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cls-hooked": "^4.2.2",
+    "continuation-local-storage": "^3.2.1",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "pg": "^7.12.1",
+    "reflect-metadata": "^0.1.13",
+    "sequelize": "5.18.4",
+    "sequelize-cli": "5.5.1",
+    "sequelize-typescript": "1.0.0",
+    "ts-node": "4.1.0",
+    "ts-node-dev": "1.0.0-pre.42",
+    "typescript": "^3.6.3"
+  }
+}
